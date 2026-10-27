@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f5f5;
+}
+
+.app {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  margin-bottom: 0.25rem;
+}
+
+section {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+}
